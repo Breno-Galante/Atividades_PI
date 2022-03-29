@@ -1,0 +1,14 @@
+#div_a {
+    background-color: red;
+    border: 2px solid;
+    border-color: green;
+    margin-top: 100px;
+}
+#div_b {
+    background-color: black;
+    height: 50vh;
+    width: 50vw;
+    border: 10px dashed;
+    margin-top: 100px;
+    margin-left: 100px;
+}

@@ -1,0 +1,31 @@
+#div_a {
+    background-color: #ff7f00;
+    height: 500px;
+    width: 500px;
+}
+
+#div_b {
+    background-color: #90ee90;
+    height: 250px;
+    width: 250px;
+}
+
+#elemento_c {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+#div_d {
+    width: 50vw; 
+    height: 50vh; 
+    background-color: rgb(164, 193, 255)}
+
+
+    #div_e {
+        width: 75vw;
+        height: 50%;
+        background-color: rgb(250, 40, 40);
+    }
